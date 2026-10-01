@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/block/spincycle/commit/f4799097e85f8bda1cdc8212f97400408499291e",
       "git:hexsha": "f4799097e85f8bda1cdc8212f97400408499291e",
-      "repolex:parseStatus": "ast_complete",
+      "repolex:parseStatus": "enrich_complete",
       "git:tagName": "v2.1.1"
     },
     {

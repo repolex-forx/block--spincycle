@@ -1,0 +1,15 @@
+[2026-10-01T08:41:06Z] === ENRICH ITERATION 1 START | repo=block/spincycle sha=f4799097 ===
+[2026-10-01T08:41:06Z] [iter=1] PHASE START: enrich repo=block/spincycle sha=f4799097 runlog=/home/runner/work/forx/forx/storage/aggregate/lsp/logs/f4799097-enrich-iter-001.log output=/home/runner/work/forx/forx/storage/aggregate/lsp/f4799097e85f8bda1cdc8212f97400408499291e.nq.gz
+[2026-10-01T08:41:16Z] [iter=1] Step 1: Loading AST into disk-backed store mem_mb=79 MB
+[2026-10-01T08:41:24Z] [iter=1] AST store loaded triples=1071270 load_secs=7 mem_mb=894 MB
+[2026-10-01T08:41:24Z] [iter=1] Step 2: Finding LSP targets mem_mb=894 MB
+[2026-10-01T08:41:24Z] [iter=1] LSP targets found call_sites=5790 imports=0 extends=0 implements=0 secs=1
+[2026-10-01T08:41:25Z] [iter=1] Step 2.7: Building position index (one-shot, shared across resolvers) mem_mb=894 MB
+[2026-10-01T08:41:31Z] [iter=1] Position index built positions=71459 nodes_with_types=83371 secs=6 mem_mb=894 MB
+[2026-10-01T08:41:31Z] [iter=1] Step 3: Starting LSP resolution mem_mb=894 MB already_completed_types=[] already_completed_files=0
+[2026-10-01T08:41:31Z] [iter=1] Resolving target type target_type=call_site count=5790
+[2026-10-01T08:41:36Z] [iter=1] HEARTBEAT target_type=call_site elapsed_min=0.5 files_done=0 resolved=0 errors=5790 current=util/reformat-yaml/run.sh
+[2026-10-01T08:41:43Z] [iter=1] Target type resolved target_type=call_site resolved=0 errors=11580 secs=12 mem_mb=894 MB
+[2026-10-01T08:41:46Z] [iter=1] Step 5: Writing final enrichment file triples=18
+[2026-10-01T08:41:46Z] [iter=1] Enrichment file written path=/home/runner/work/forx/forx/storage/aggregate/lsp/f4799097e85f8bda1cdc8212f97400408499291e.nq.gz size_kb=0
+[2026-10-01T08:41:46Z] [iter=1] PHASE END: enrich elapsed_s=40 elapsed_min=0.7 total_triples=18

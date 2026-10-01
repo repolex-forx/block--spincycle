@@ -218,6 +218,113 @@
       ],
       "ast": [
         "aggregate/ast/f4799097e85f8bda1cdc8212f97400408499291e/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/f4799097e85f8bda1cdc8212f97400408499291e.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "github.com/alexflint/go-arg",
+          "ecosystem": "GO",
+          "version": "1.0.0",
+          "githubOrg": "alexflint",
+          "githubRepo": "go-arg",
+          "githubCommit": "f40417ef119019b1c94b79f3f18b7f66b9fb6bce",
+          "githubTag": "v1.0.0",
+          "githubUrl": "https://github.com/alexflint/go-arg",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/go-sql-driver/mysql",
+          "ecosystem": "GO",
+          "version": "1.5.0",
+          "githubOrg": "go-sql-driver",
+          "githubRepo": "mysql",
+          "githubCommit": "17ef3dd9d98b69acec3e85878995ada9533a9370",
+          "githubTag": "v1.5.0",
+          "githubUrl": "https://github.com/go-sql-driver/mysql",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/go-test/deep",
+          "ecosystem": "GO",
+          "version": "1.0.1",
+          "githubOrg": "go-test",
+          "githubRepo": "deep",
+          "githubCommit": "6592d9cc0a499ad2d5f574fde80a2b5c5cc3b4f5",
+          "githubTag": "v1.0.1",
+          "githubUrl": "https://github.com/go-test/deep",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/labstack/echo/v4",
+          "ecosystem": "GO",
+          "version": "4.13.3",
+          "githubOrg": "labstack",
+          "githubRepo": "echo",
+          "githubCommit": "45524e39d60d424d8ac175001eed70d6ace92930",
+          "githubTag": "v4.13.3",
+          "githubUrl": "https://github.com/labstack/echo",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/logrusorgru/aurora",
+          "ecosystem": "GO",
+          "version": "2.0.3+incompatible",
+          "githubOrg": "logrusorgru",
+          "githubRepo": "aurora",
+          "githubUrl": "https://github.com/logrusorgru/aurora",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/onsi/ginkgo",
+          "ecosystem": "GO",
+          "version": "1.11.0",
+          "githubOrg": "onsi",
+          "githubRepo": "ginkgo",
+          "githubCommit": "388ac7e50a3abf0798010091d5094171f4aefc0b",
+          "githubTag": "v1.11.0",
+          "githubUrl": "https://github.com/onsi/ginkgo",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/onsi/gomega",
+          "ecosystem": "GO",
+          "version": "1.8.1",
+          "githubOrg": "onsi",
+          "githubRepo": "gomega",
+          "githubCommit": "22a9feb22fe99439870ed2e013401725a9d495df",
+          "githubTag": "v1.8.1",
+          "githubUrl": "https://github.com/onsi/gomega",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/orcaman/concurrent-map",
+          "ecosystem": "GO",
+          "version": "0.0.0-20190107190726-7ed82d9cb717",
+          "githubOrg": "orcaman",
+          "githubRepo": "concurrent-map",
+          "githubUrl": "https://github.com/orcaman/concurrent-map",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/rs/xid",
+          "ecosystem": "GO",
+          "version": "0.0.0-20170604230408-02dd45c33376",
+          "githubOrg": "rs",
+          "githubRepo": "xid",
+          "githubUrl": "https://github.com/rs/xid",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/sirupsen/logrus",
+          "ecosystem": "GO",
+          "version": "1.0.6",
+          "githubOrg": "sirupsen",
+          "githubRepo": "logrus",
+          "githubCommit": "3e01752db0189b9157070a0e1668a620f9a85da2",
+          "githubTag": "v1.0.6",
+          "githubUrl": "https://github.com/sirupsen/logrus",
+          "source": "build_file:go.mod"
+        }
       ]
     }
   ],
