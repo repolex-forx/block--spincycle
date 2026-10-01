@@ -325,7 +325,9 @@
           "githubUrl": "https://github.com/sirupsen/logrus",
           "source": "build_file:go.mod"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/f4799097e85f8bda1cdc8212f97400408499291e/chunk-001.nq.gz",
+      "dep": "dep/f4799097e85f8bda1cdc8212f97400408499291e.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",

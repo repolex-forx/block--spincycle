@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/block/spincycle/commit/f4799097e85f8bda1cdc8212f97400408499291e",
       "git:hexsha": "f4799097e85f8bda1cdc8212f97400408499291e",
-      "repolex:parseStatus": "enrich_complete",
-      "git:tagName": "v2.1.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v2.1.1",
+      "repolex:parsedAt": "2026-10-01T08:44:12.395175+00:00"
     },
     {
       "@id": "https://repolex.ai/r/block/spincycle/commit/88d6706ce20553668d1bd280ae177d606f7d7b86",
