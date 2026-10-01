@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "spincycle",
+  "versions": [
+    {
+      "commit": "f4799097e85f8bda1cdc8212f97400408499291e",
+      "tag": "master",
+      "parsed_at": "2026-10-01T08:44:12.395803+00:00"
+    }
+  ]
+}
